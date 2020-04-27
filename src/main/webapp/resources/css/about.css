@@ -1,0 +1,10 @@
+.main-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-info{
+    max-width: 675px;
+    margin-right: 60px;
+    margin-bottom: 30px;
+}

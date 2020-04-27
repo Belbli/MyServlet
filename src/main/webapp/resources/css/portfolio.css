@@ -1,0 +1,38 @@
+.filter{
+    height: 30px;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.filter-item{
+    padding-top: 7px;
+    margin-right: 15px;
+}
+
+.filter-by{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b9b9b9;
+}
+
+.active-menu-item{
+    background-color: #e8663c;
+    width: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 27px;
+}
+
+.active-menu-item .filter-by{
+    color: #ffffff;
+}
+
+.portfolio-img{
+    margin-bottom: 25px;
+}
+
+.info{
+    font-size: 16px;
+    margin-bottom: 40px;
+    text-transform: none;
+}
