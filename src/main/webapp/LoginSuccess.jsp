@@ -6,6 +6,6 @@
 </head>
 <body>
 <h3>Hi User, Login successful.</h3>
-<a href="index.html">Login Page</a>
+<a href="index.jsp">Login Page</a>
 </body>
 </html>

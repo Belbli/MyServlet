@@ -4,7 +4,7 @@
     <title>Добавить нового пользователя</title>
 </head>
 <body>
-<form action = "/test" method="post">
+<form action = "test" method="get">
     <input required type="text" name="name" placeholder="Имя">
     <input required type="text" name="age" placeholder="Возраст">
     <input type="submit" value="Сохранить">

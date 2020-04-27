@@ -1,1 +1,5 @@
-com\github\Belblu\MainServlet.class
+com\github\Belblu\LoginServlet.class
+dao\DBConnection.class
+dao\DBUtils.class
+dao\User.class
+com\github\Belblu\RegisterServlet.class
